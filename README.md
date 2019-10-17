@@ -2,12 +2,15 @@
 
 A new Flutter project, store of actions figures(animes, games).
 
- * Project using backend of firebase, consuming of firabase cloud. 
+ * Project using backend in firebase, consuming data of the firabase cloud.
+ * Login auth on firabase.
+ * Creating acount on firebase.
  
  #screen
  
- 
+ ![alt text](https://drive.google.com/uc?export=view&id=1Ikxhup8I6cOh3mIKeEELRbk-LpxLpEs9)  ![alt text](https://drive.google.com/uc?export=view&id=1od9XxRXyuCZsNTCxCuGrfMRfdkb4VAYE) ![alt text]( https://drive.google.com/uc?export=view&id=1VYrmOXVbQShaELE8nwvqSXvv7WuDN2u3) ![alt text](https://drive.google.com/uc?export=view&id=1cmmnf-dtjyo7iS-3ZivZtvEpwc1Dtz-M) 
 
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
