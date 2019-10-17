@@ -1,4 +1,4 @@
-# Store actions figures
+# Figure Store
 
 A new Flutter project, store of actions figures(animes, games).
 
