@@ -1,6 +1,12 @@
-# loja_virtual
+# Store actions figures
 
-A new Flutter project.
+A new Flutter project, store of actions figures(animes, games).
+
+ * Project using backend of firebase, consuming of firabase cloud. 
+ 
+ #screen
+ 
+ 
 
 ## Getting Started
 
