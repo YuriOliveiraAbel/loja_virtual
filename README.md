@@ -8,7 +8,8 @@ A new Flutter project, store of actions figures(animes, games).
  
  #screen
  
- ![alt text](https://drive.google.com/uc?export=view&id=1Ikxhup8I6cOh3mIKeEELRbk-LpxLpEs9)  ![alt text](https://drive.google.com/uc?export=view&id=1od9XxRXyuCZsNTCxCuGrfMRfdkb4VAYE) ![alt text]( https://drive.google.com/uc?export=view&id=1VYrmOXVbQShaELE8nwvqSXvv7WuDN2u3) ![alt text](https://drive.google.com/uc?export=view&id=1cmmnf-dtjyo7iS-3ZivZtvEpwc1Dtz-M) 
+ ![alt text](https://drive.google.com/uc?export=view&id=1Ikxhup8I6cOh3mIKeEELRbk-LpxLpEs9)  
+ ![alt text](https://drive.google.com/uc?export=view&id=1od9XxRXyuCZsNTCxCuGrfMRfdkb4VAYE) ![alt text]( https://drive.google.com/uc?export=view&id=1VYrmOXVbQShaELE8nwvqSXvv7WuDN2u3) ![alt text](https://drive.google.com/uc?export=view&id=1cmmnf-dtjyo7iS-3ZivZtvEpwc1Dtz-M) 
 
  
 ## Getting Started
